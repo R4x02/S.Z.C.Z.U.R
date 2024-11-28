@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Administrator/Documents/GitHub/S.Z.C.Z.U.R/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/9E/85FP4XJV8YCC15G1889ZL5.uasset",
+				"C:/Users/Administrator/Documents/GitHub/S.Z.C.Z.U.R/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/TK/DAXMMLU5PNGMDUNWJFUIYN.uasset",
+				"C:/Users/Administrator/Documents/GitHub/S.Z.C.Z.U.R/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/ML/XV9UHRBSV1H7RFFXFAXIP9.uasset",
+				"C:/Users/Administrator/Documents/GitHub/S.Z.C.Z.U.R/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/U6/QC6NLIF80KWEMKE1X0RX4B.uasset",
+				"C:/Users/Administrator/Documents/GitHub/S.Z.C.Z.U.R/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/A4/JBPHX3V26BJJJL3PE3JW8X.uasset",
+				"C:/Users/Administrator/Documents/GitHub/S.Z.C.Z.U.R/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/XH/8ZPWGL1AFJ0Z3SQHD02KX2.uasset",
+				"C:/Users/Administrator/Documents/GitHub/S.Z.C.Z.U.R/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/YW/V34BXA1KLYQVK5MO5BGFCA.uasset",
+				"C:/Users/Administrator/Documents/GitHub/S.Z.C.Z.U.R/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/Z2/AOTME7J0WW2I54E5J4T1PJ.uasset",
+				"C:/Users/Administrator/Documents/GitHub/S.Z.C.Z.U.R/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/JN/RJ528JHOTGR0H55XL061PW.uasset",
+				"C:/Users/Administrator/Documents/GitHub/S.Z.C.Z.U.R/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/TW/FFOCTO9EMY02UQBNWFUKAT.uasset",
+				"C:/Users/Administrator/Documents/GitHub/S.Z.C.Z.U.R/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/TU/KN5O4GMFF9JZHRI4BMMT7I.uasset",
+				"C:/Users/Administrator/Documents/GitHub/S.Z.C.Z.U.R/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/Z5/Q5KLO9OJJIO21KER7U2ZVP.uasset"
+			]
+		}
+	]
+}
